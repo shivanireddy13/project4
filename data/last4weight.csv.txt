@@ -1,0 +1,4 @@
+2019,933,80kg driver allowance
+2020,936,Second fuel flow meter added
+2021,942,
+2022,988,"New cars designed around ground effects aerodynamics, plus bigger wheels and wheel covers also introduced"

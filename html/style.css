@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,400;0,600;0,700;0,900;1,400&display=swap');
+
+body {
+    background-color: white;
+    font-family: 'Titillium Web', 'Arial Narrow Bold';
+    color: #black;
+    /* margin-left: 20%;
+    margin-right:20%; */
+    padding: 0;
+}
+
+#header{ 
+    background-color: #e23333;
+}
+
+div {
+    padding-left: 10%;
+    padding-right:10%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+#dotplot{
+    padding-left: 10%;
+    padding-right:10%;
+}
+
+.scroll{
+    width:100vw;
+    /* display: grid;
+    grid-template-columns: 1fr 1fr;  */
+    padding: 0px !important;
+    position: relative;
+    height: 60vh;
+    display: block;
+
+}
+
+.lefty{
+    /* grid-column: 1/1; */
+ width: 50%; 
+   top: 0; 
+   left: 0;
+}
+
+.righty{
+    width: 90%; 
+   top: 0; 
+   right: 0;
+    overflow: scroll;
+    text-align: right;
+}
+
+
+.container
+{ 
+    padding:100px !important;
+    height: 30vh;
+    position: absolute;
+}
+
+
+
+h1, h2 {text-align: center;}
+
+h1 {
+    margin-bottom: 0;
+    font-size: 60px;
+    font-weight: 600;
+    color: #ffffff;
+    font-family: 'Titillium Web', 'Arial Narrow Bold';
+}
+
+h2 {
+    margin-top: 0;
+    font-size: 20px;
+    font-weight: 700;
+    color: #ffffff;
+}
+h3 { 
+    font-size: 12px;
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+    padding-top: 20px;
+}
+
+hr { 
+ border-width: 0.5px;
+
+}
+
+a { 
+    color: #ffffff;
+}
+
+/* img {
+    width: 120%;
+    height: auto;
+} */
